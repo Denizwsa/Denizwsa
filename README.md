@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Discord-denizkwsa-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/located-T%C3%BCrkiye-3c75d8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Denizwsa&style=for-the-badge&color=5865f2&label=visitors"/>
+
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/Denizwsa/Denizwsa/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&repeat=true&color=5865F2&center=true&vCenter=true&width=640&height=34&lines=rustacean+with+a+keyboard;full+stack%2C+mostly+systems;currently%3A+making+Discord+native+(Drift);arch%2Fomarchy+desktop+rice" alt="typing"/>
+<sub><code>rust · full stack · native · building Discord in Rust · arch/omarchy rice</code></sub>
 
 </div>
 
@@ -79,28 +78,18 @@ embedded in apps · no GPU driver drama (mostly)
 </table>
 
 ## 📊 stats
-
 <div align="center">
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Denizwsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2b2d31&title_color=5865f2&text_color=dbdee1&icon_color=5865f2"/></td>
-<td><img src="https://github-readme-streak-stats.demolab.com?user=Denizwsa&theme=tokyonight&hide_border=true&background=2b2d31&ring=5865f2&fire=5865f2&currStreakLabel=5865f2&sideNums=dbdee1&sideLabels=94a3b4"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denizwsa&layout=compact&theme=tokyonight-pro&hide_border=true&bg_color=2b2d31&title_color=5865f2&text_color=dbdee1&langs_count=8"/></td>
-<td align="center"><img src="https://github-profile-trophy.vercel.app/?username=Denizwsa&theme=onedark&no_bg=true&margin_w=12&column=4"/></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Denizwsa/Denizwsa/main/assets/stats.svg" width="100%" alt="Denizwsa — real numbers from the GitHub API"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denizwsa&theme=tokyo-night&hide_border=true&bg_color=2b2d31&color=5865f2&line=5865f2&point=dbdee1"/>
-</div>
-
-<div align="center">
-<a href="https://github.com/Denizwsa/drift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Denizwsa&repo=drift&theme=tokyonight&hide_border=true&bg_color=2b2d31&title_color=5865f2&text_color=dbdee1"/></a>&nbsp;
-<a href="https://github.com/Denizwsa/wsarndr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Denizwsa&repo=wsarndr&theme=tokyonight&hide_border=true&bg_color=2b2d31&title_color=5865f2&text_color=dbdee1"/></a>
-</div>
+| repo | what | language |
+|:---|:---|:---|
+| [🪽 drift](https://github.com/Denizwsa/drift) | native Discord client, no Electron | Rust |
+| [🖌️ wsarndr](https://github.com/Denizwsa/wsarndr) | embeddable 2D vector renderer, Vulkan | Rust |
+| [🎮 Liquidwsa](https://github.com/Denizwsa/Liquidwsa) | free Minecraft hacked client (utility mod) | Kotlin |
+| [🟥 Raven-bSplus](https://github.com/Denizwsa/Raven-bSplus) | Raven bS fork, half AI-coded | Java |
+| [🌳 omarchy-superlig](https://github.com/Denizwsa/omarchy-superlig) | Omarchy bar plugin: Maçkolik football | QML |
+| [⚙️ wsalauncher](https://github.com/Denizwsa/wsalauncher) | desktop launcher | C++ |
 
 ## 🧠 current nonsense
 
@@ -119,4 +108,6 @@ embedded in apps · no GPU driver drama (mostly)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=5865f2" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Denizwsa/Denizwsa/main/assets/divider.svg" width="100%" alt=""/>
+
+`denizkwsa` · `wsamiawclient.lol` · **native over electron, always**
