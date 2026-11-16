@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1f22"/>
+      <stop offset="0.55" stop-color="#252629"/>
+      <stop offset="1" stop-color="#313338"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="78%" cy="28%" r="48%">
+      <stop offset="0" stop-color="#5865f2" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#5865f2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="15%" cy="82%" r="42%">
+      <stop offset="0" stop-color="#23a55a" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#23a55a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#e8e9eb"/>
+      <stop offset="1" stop-color="#b5b9be"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow1)"/>
+  <rect width="1200" height="340" fill="url(#glow2)"/>
+
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+    <path d="M0 60 H1200M0 120 H1200M0 180 H1200M0 240 H1200M0 300 H1200"/>
+    <path d="M150 0 V340M300 0 V340M450 0 V340M600 0 V340M750 0 V340M900 0 V340M1050 0 V340"/>
+  </g>
+
+  <!-- constellation -->
+  <g stroke="#5865f2" stroke-opacity="0.5" stroke-width="1.5" fill="none">
+    <path d="M930 120 L1060 70 L1120 160 L1015 205 L930 120"/>
+  </g>
+  <g fill="#5865f2">
+    <circle cx="1060" cy="70" r="5"/>
+    <circle cx="930" cy="120" r="3" fill-opacity="0.7"/>
+    <circle cx="1120" cy="160" r="3" fill-opacity="0.8"/>
+    <circle cx="1015" cy="205" r="2.5" fill-opacity="0.6"/>
+    <circle cx="830" cy="61" r="2" fill-opacity="0.5"/>
+  </g>
+
+  <rect x="80" y="96" width="46" height="4" rx="2" fill="#5865f2"/>
+  <text x="80" y="152" font-family="DejaVu Sans Mono, monospace" font-size="54" font-weight="bold" fill="url(#name)">justcallme-wsa</text>
+  <text x="80" y="207" font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#94a3b4">rust · native apps · arch / omarchy · one too many linux rice</text>
+  <text x="80" y="246" font-family="DejaVu Sans Mono, monospace" font-size="11" fill="#5865f2" letter-spacing="3">GITHUB.COM/DENIZWSA</text>
+</svg>
